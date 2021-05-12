@@ -1,5 +1,7 @@
-# shop-shop
+# shop-shop-Redux
   
+  ### Github: https://github.com/cruzma/shop-shop.git
+  ### website: https://serene-caverns-56086.herokuapp.com/ 
 
   ## Table of Contents
   - [Description](#description)
