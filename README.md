@@ -9,7 +9,7 @@
   - [Acceptance&nbsp;Criteria](#Acceptance&nbsp;Criteria)
 
   ## Description
-  An e-commerce website that allows users to buy products from.<br/>
+  This is an e-commerce website that will allow users to by product, this is a good example of how to implmenet a state management approach which was popularized by redux.<br/>
   ![Demo](images/shop-shop.JPG)<br/>
   <br/>
 
